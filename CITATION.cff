@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: If you use this repository, cite the associated manuscript.
+title: "Plan B code and result repository"
+authors:
+  - family-names: Wei
+    given-names: Bin
+  - family-names: Zeng
+    given-names: Jingjing
+  - family-names: Yang
+    given-names: Ying
+version: "2026-11-18"
+date-released: "2026-11-18"

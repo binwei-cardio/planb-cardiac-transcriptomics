@@ -1,0 +1,3 @@
+﻿Sensitivity_dataset,Comparison,Key_finding,Inference
+GSE161470,HF vs Control,T/NK cytotoxic directionally higher; fibroblast Fibrosis-ECM directionally lower,Descriptive only: one HF sample
+GSE135805,Normal vs HCM vs DCM vs ICM,"One section per group; gene coverage 4,029-12,734; CM_stress, cytotoxic and senescence genes mostly absent; depth imbalance",Platform/depth sensitivity only; no group inference

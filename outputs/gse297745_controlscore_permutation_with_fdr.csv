@@ -1,0 +1,7 @@
+Dataset,Module,mean_ICI,mean_Rescue,diff,perm_p,q
+GSE297745,Fibrosis_ECM,0.0365,-0.4564,0.4929,0.6667,1.0
+GSE297745,Inflammation,-0.7867,-0.8317,0.045,1.0,1.0
+GSE297745,Endothelial,0.0008,-0.0618,0.0626,0.3333,0.6666
+GSE297745,Hypoxia_Metabolism,-0.1762,-0.5862,0.4099,0.3333,0.6666
+GSE297745,CM_stress,2.043,2.019,0.024,1.0,1.0
+GSE297745,Tcell_cytotoxic,-0.3052,-0.524,0.2189,0.3333,0.6666

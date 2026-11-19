@@ -1,0 +1,8 @@
+Dataset,Species,Modality,Comparison,Module,n_ICI,n_Control,mean_ICI,mean_Control,diff,inference
+GSE299032,mouse,scRNA,ICI_vs_Control,Fibrosis_ECM,4,1,-0.31646939065170543,-0.2076547921479798,-0.10881459850372563,directional_only_single_control
+GSE299032,mouse,scRNA,ICI_vs_Control,Inflammation,4,1,-0.03830266803764832,-0.14838360878474535,0.11008094074709704,directional_only_single_control
+GSE299032,mouse,scRNA,ICI_vs_Control,Endothelial,4,1,-0.16553913990071278,0.037287543440328315,-0.2028266833410411,directional_only_single_control
+GSE299032,mouse,scRNA,ICI_vs_Control,Hypoxia_Metabolism,4,1,-0.10960641508874923,-0.09614195620191451,-0.013464458886834715,directional_only_single_control
+GSE299032,mouse,scRNA,ICI_vs_Control,CM_stress,4,1,0.14200880228360693,0.5015450437728628,-0.3595362414892559,directional_only_single_control
+GSE299032,mouse,scRNA,ICI_vs_Control,Tcell_cytotoxic,4,1,0.031381277427913384,-0.1766524427476987,0.20803372017561209,directional_only_single_control
+GSE299032,mouse,scRNA,ICI_vs_Control,Senescence,4,1,-0.055522835850095265,-0.05664640606237879,0.0011235702122835284,directional_only_single_control

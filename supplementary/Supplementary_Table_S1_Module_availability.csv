@@ -1,0 +1,8 @@
+﻿Dataset,Programmes_assessed,Module_exceptions,Cross_dataset_synthesis
+GSE292067,7,,Yes
+GSE288222,7,,Yes
+GSE298023,6 primary + Senescence in S6,Senescence included only in S6 sensitivity,Yes
+GSE161470,7,,No
+GSE297745,6 primary + Senescence in S6,Senescence included only in S6 sensitivity,Yes
+GSE299032,7,,Yes
+GSE135805,4,"CM_stress, Tcell_cytotoxic and Senescence not assessed",No

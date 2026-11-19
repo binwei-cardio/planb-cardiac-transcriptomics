@@ -1,0 +1,15 @@
+﻿,"DoxCM vs
+Donor (human)","NICM vs
+Donor (human)","HF vs ND
+(human)","ICM vs
+Donor (human)","DCM vs
+Donor (human)","ICI vs Rescue
+(mouse Visium)","ICI vs Control
+(mouse scRNA)"
+Fibrosis_ECM,human_primary,human_primary,human_primary,human_primary,human_primary,mouse_supportive,mouse_directional_only
+Tcell_cytotoxic,human_primary,human_primary,human_primary,human_primary,human_primary,mouse_supportive,mouse_directional_only
+CM_stress,human_primary,human_primary,human_primary,human_primary,human_primary,mouse_supportive,mouse_directional_only
+Inflammation,human_primary,human_primary,human_primary,human_primary,human_primary,mouse_supportive,mouse_directional_only
+Senescence,human_primary,human_primary,human_primary,,,,mouse_directional_only
+Hypoxia_Metabolism,human_primary,human_primary,human_primary,human_primary,human_primary,mouse_supportive,mouse_directional_only
+Endothelial,mixed/sensitivity,mixed/sensitivity,mixed/sensitivity,mixed/sensitivity,mixed/sensitivity,mixed/sensitivity,mixed/sensitivity
